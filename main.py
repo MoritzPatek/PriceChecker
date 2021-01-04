@@ -1,3 +1,6 @@
+#so yeah i really want an apple watch, but i am super broke, so the only logical way to handle that is to programm a bot
+#that keeps track of the price of the product - yeah I REALLY want that apple watch lol
+
 import requests
 from bs4 import BeautifulSoup
 from email.message import EmailMessage
